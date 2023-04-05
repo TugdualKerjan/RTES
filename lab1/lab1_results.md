@@ -1,6 +1,7 @@
-# Interrupts measurements - Latency, Response Time, Recovery time
+# Lab 1
+Nathan PELUSO & Tugdual KERJAN
 
-
+# Part I: Interrupts measurements - Latency, Response Time, Recovery time
 ## Configurations
 - NIOS processor version "II/f"
 - Clock: 50 MHz for all components except 100MHz PLL for SDRAM (when relevant)
@@ -11,9 +12,9 @@
 
 ## Components
 ### Custom ParallelPort
-[Code for ParallelPort](vhdl/parallel.vhd)
+[Code for ParallelPort](submit_files/parallel.vhd)
 ### Custom Counter
-[Code for Counter](vhdl/Counter.vhd)
+[Code for Counter](submit_files/Counter.vhd)
 
 ## Measurements
 ### Latency
@@ -43,4 +44,39 @@ Three methods are used to measure recovery time:
 
 ### Interpretation
 First of all, using on-chip memory seems to be faster than using SDRAM, for all measurements and cache settings. Regarding caches, the Instruction cache seems to bring a considerable optimization, especially regarding latency and response time. The Data cache also brings better performance, with less impact on latency time.
+
+# Part 2 - µC-OSII
+## Configuration
+- NIOS processor version "II/f"
+- Clock: 50 MHz for all components
+- ROM/RAM: 32bits width, 262144 bytes, RAM (writeable)
+- I Cache: 4Kby (RAM)
+- D Cache: 2Kby (RAM)
+
+## Code used
+[Code for µC-OSII measurements](ucosii_measurements.c)
+
+## Semaphore
+Using timer: 536 cycles,10.7 µs  
+Using logic analyzer: 10.6µs  
+
+## Flags
+OS_FLAG_WAIT_SET_ANY+OS_FLAG_CONSUME: 529 cycles, 10.6µs (timer) | 11.4µs (logic analyzer)
+OS_FLAG_WAIT_SET_ALL: Very high variance, depends on time to press all buttons.
+
+## Mail
+Using timer: 570 cycles => 11.4µs
+Using logic analyzer: 11.2µs
+
+## Queue
+Using timer: 564 cycles => 11.3µs
+Using logic analyzer: 11.1µs
+
+## Summary
+All communication primitives seem to offer similar levels of performance, slighly slower for Mail & Queue primitives.
+This seems logical, given that these primitives rely on more complex logic.
+
+We observe that the time needed for those primitives to be passed is comparable to the total overhead of exception handling (latency+response+recovery) in similar cache settings: around 10-15µs per signal.
+
+
 
