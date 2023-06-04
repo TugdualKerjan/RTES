@@ -1,0 +1,1541 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1685711767
+!i10b 1
+!s100 ]mAG1^>5PZBRVLh0=0IcQ3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3Tl<=>Ec1V3VB28R7zkGB2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1685708853
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_sc_fifo.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_sc_fifo.v
+!i122 1
+L0 21 895
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1685711766.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work soc_system
+Z8 !s92 -vlog01compat -work soc_system +incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules
+Z9 tCvgOpt 0
+valtera_avalon_st_clock_crosser
+Z10 !s110 1685711769
+!i10b 1
+!s100 H=`^Ql63IT2=X`Fg8A2h00
+R2
+IjgB_TfLR]UoAa8E?B<@zI0
+R3
+R0
+Z11 w1685708854
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_clock_crosser.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_clock_crosser.v
+!i122 16
+L0 22 120
+R5
+r1
+!s85 0
+31
+Z12 !s108 1685711769.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_handshake_clock_crosser
+R10
+!i10b 1
+!s100 aUlkBMLU;f@>E9od2S3gb3
+R2
+IhaokNLzWmz?PjWbWD8?Sd3
+R3
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_handshake_clock_crosser.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_handshake_clock_crosser.v
+!i122 17
+L0 24 195
+R5
+r1
+!s85 0
+31
+R12
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+Z13 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z14 !s110 1685711770
+!i10b 1
+!s100 i`gEcf6CXTclhiOMi9mRD2
+R2
+INI?@2?F5DU_3ZcW;8^X5<0
+R3
+S1
+R0
+R11
+Z15 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_arbitrator.sv
+Z16 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_arbitrator.sv
+!i122 18
+L0 228 45
+R5
+r1
+!s85 0
+31
+R12
+Z17 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_arbitrator.sv|
+Z18 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z19 o-sv -work soc_system
+Z20 !s92 -sv -work soc_system +incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules
+R9
+valtera_merlin_arbitrator
+R13
+R14
+!i10b 1
+!s100 ]2njmcIAE=WRz[E876GaK3
+R2
+IhZA[6JT<:0Jg0W7>l9R@60
+R3
+S1
+R0
+R11
+R15
+R16
+!i122 18
+L0 103 121
+R5
+r1
+!s85 0
+31
+R12
+R17
+R18
+!i113 1
+R19
+R20
+R9
+valtera_merlin_burst_adapter
+R13
+R14
+!i10b 1
+!s100 P3@hR?F[9FNQkMic4Yn=32
+R2
+IRUk3]bi6GP;_:h`X4dEiY1
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter.sv
+!i122 19
+L0 21 241
+R5
+r1
+!s85 0
+31
+Z21 !s108 1685711770.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_burst_adapter_uncompressed_only
+R13
+R14
+!i10b 1
+!s100 8`CF0X];9[bDChnXF0SNf0
+R2
+I@Mc7<:]]`aWM:eX7HK^nJ2
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter_uncmpr.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter_uncmpr.sv
+!i122 20
+L0 39 53
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_burst_uncompressor
+R13
+R14
+!i10b 1
+!s100 f5?g@0D[3mRE6h_kkF_Tg3
+R2
+I8i]7ZmC@<Zm4C61U@K>z73
+R3
+S1
+R0
+R4
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_uncompressor.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_uncompressor.sv
+!i122 21
+L0 40 256
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_master_agent
+R13
+R14
+!i10b 1
+!s100 0Oa@3`81E13?iQ<2;9MB33
+R2
+IcHVJ8Sc=<XMGVfz`k1a4B1
+R3
+S1
+R0
+R4
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_agent.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_agent.sv
+!i122 22
+L0 28 276
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_master_translator
+R13
+Z22 !s110 1685711771
+!i10b 1
+!s100 fR3Ff6Pe4h_lQXBchi=m63
+R2
+I[l7UB7S4fT0SbIkb:[M?[3
+R3
+S1
+R0
+R4
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_translator.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_translator.sv
+!i122 23
+L0 32 525
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_slave_agent
+R13
+R22
+!i10b 1
+!s100 ik7ACS8g5]^IS7Xe5iU]P3
+R2
+IlgYWNN[BLzOL9N^b_lbBE0
+R3
+S1
+R0
+R4
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_agent.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_agent.sv
+!i122 24
+L0 34 588
+R5
+r1
+!s85 0
+31
+Z23 !s108 1685711771.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_slave_translator
+R13
+R22
+!i10b 1
+!s100 n?8_4jLIz<NL:?<dYjeFI3
+R2
+ISOzz74S6`[kV8<I^Ec`iU3
+R3
+S1
+R0
+R4
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_translator.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_translator.sv
+!i122 25
+L0 35 448
+R5
+r1
+!s85 0
+31
+R23
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R19
+R20
+R9
+valtera_merlin_width_adapter
+R13
+R22
+!i10b 1
+!s100 ?6@hQbS6a@_3`IeY:n5E>3
+R2
+IETIhc2Ijkk^1G;bEF?X9_2
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_width_adapter.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_width_adapter.sv
+!i122 26
+L0 25 1181
+R5
+r1
+!s85 0
+31
+R23
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R19
+R20
+R9
+valtera_reset_controller
+R1
+!i10b 1
+!s100 oA9lUzaO95KXSKU3fUHXM0
+R2
+IZ9^E8l>^Sfmz5NVg=>Ig;0
+R3
+R0
+Z24 w1685708829
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_controller.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_controller.v
+!i122 2
+L0 42 278
+R5
+r1
+!s85 0
+31
+Z25 !s108 1685711767.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R1
+!i10b 1
+!s100 D^dgdIfBaVUo6:<:oWOdC3
+R2
+IF^K]6Y8<7OdKEZ7]97I_21
+R3
+R0
+R24
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_synchronizer.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_synchronizer.v
+!i122 3
+L0 24 63
+R5
+r1
+!s85 0
+31
+R25
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+valtera_std_synchronizer_nocut
+R22
+!i10b 1
+!s100 ZgLJUG[Qd;Lg?gb;]HK0S2
+R2
+I@[``<JWloaXbbmkE=7NoB2
+R3
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_std_synchronizer_nocut.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_std_synchronizer_nocut.v
+!i122 27
+L0 44 149
+R5
+r1
+!s85 0
+31
+R23
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+R9
+Ecustom_accel_swap
+Z26 w1685708816
+Z27 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z28 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z29 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 47
+R0
+Z30 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/accel_averager.vhd
+Z31 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/accel_averager.vhd
+l0
+L5 1
+VU;YS<VIeDU;gQZCZ3n?Mk1
+!s100 V]M`]lYZ:`[9@lDH9Y=[_3
+Z32 OV;C;2020.1;71
+31
+Z33 !s110 1685711776
+!i10b 1
+Z34 !s108 1685711776.000000
+Z35 !s90 -reportprogress|300|-93|-work|soc_system|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/accel_averager.vhd|
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/accel_averager.vhd|
+!i113 1
+Z36 o-93 -work soc_system
+Z37 tExplicit 1 CvgOpt 0
+Acomp
+R27
+R28
+R29
+DEx4 work 17 custom_accel_swap 0 22 U;YS<VIeDU;gQZCZ3n?Mk1
+!i122 47
+l48
+L31 138
+V7K0JXUNhI_`5_kaNbE9b63
+!s100 jMHAJ^fYVokJS5Uz8?a5n0
+R32
+31
+R33
+!i10b 1
+R34
+R35
+Z38 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/accel_averager.vhd|
+!i113 1
+R36
+R37
+vsoc_system
+!s110 1685711766
+!i10b 1
+!s100 T<9M]4aLao3Z3iJP:8coW1
+R2
+IAT9>V>c0lQkZH_6HV3K9<1
+R3
+R0
+R26
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/soc_system.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/soc_system.v
+!i122 0
+L0 6 617
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/soc_system.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/soc_system.v|
+!i113 1
+R7
+!s92 -vlog01compat -work soc_system +incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system
+R9
+vsoc_system_irq_mapper
+R13
+Z39 !s110 1685711772
+!i10b 1
+!s100 3GCe5b`YogCTBcilZ4Dn41
+R2
+IkY>;UWo_P6U20R[FTb4i41
+R3
+S1
+R0
+R24
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_irq_mapper.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_irq_mapper.sv
+!i122 28
+L0 31 29
+R5
+r1
+!s85 0
+31
+R23
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_irq_mapper.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_jtag_uart_0
+R1
+!i10b 1
+!s100 j6AhWBdEL^oD1YTWS`V`O1
+R2
+IBb@nWTX`AD0V8QmMOfb1d1
+R3
+R0
+Z40 w1685708817
+Z41 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_jtag_uart_0.v
+Z42 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_jtag_uart_0.v
+!i122 4
+L0 331 257
+R5
+r1
+!s85 0
+31
+R25
+Z43 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_jtag_uart_0.v|
+Z44 !s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_jtag_uart_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_jtag_uart_0_scfifo_r
+R1
+!i10b 1
+!s100 ]9eGkFJk9?FY9;XOTg5fo1
+R2
+I3Fz11]Y`8f@9OM83F_em^1
+R3
+R0
+R40
+R41
+R42
+!i122 4
+L0 243 78
+R5
+r1
+!s85 0
+31
+R25
+R43
+R44
+!i113 1
+R7
+R8
+R9
+vsoc_system_jtag_uart_0_scfifo_w
+R1
+!i10b 1
+!s100 5kC`^l@8KLOV9;k80A5AI2
+R2
+I?cIFPn?95]AORem24ePE<3
+R3
+R0
+R40
+R41
+R42
+!i122 4
+L0 78 76
+R5
+r1
+!s85 0
+31
+R25
+R43
+R44
+!i113 1
+R7
+R8
+R9
+vsoc_system_jtag_uart_0_sim_scfifo_r
+R1
+!i10b 1
+!s100 mO=Xo;@5dCeFOEaOR^g5P1
+R2
+ITfTE@gOUL;NZO6kLiHmha3
+R3
+R0
+R40
+R41
+R42
+!i122 4
+L0 164 69
+R5
+r1
+!s85 0
+31
+R25
+R43
+R44
+!i113 1
+R7
+R8
+R9
+vsoc_system_jtag_uart_0_sim_scfifo_w
+R1
+!i10b 1
+!s100 ]Z0CQB<IV;M8PjYT7e0zc0
+R2
+I0[zBz?b9nGzLc2h5N:8dP1
+R3
+R0
+R40
+R41
+R42
+!i122 4
+L0 21 47
+R5
+r1
+!s85 0
+31
+R25
+R43
+R44
+!i113 1
+R7
+R8
+R9
+vsoc_system_mm_interconnect_0
+R1
+!i10b 1
+!s100 jEd=5F]BE?5aCz_3<3WFL2
+R2
+Ie1f@MDz;[9_=@_nVZBCPX3
+R3
+R0
+R24
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0.v
+!i122 5
+L0 9 6032
+R5
+r1
+!s85 0
+31
+R25
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_mm_interconnect_0_avalon_st_adapter
+Z45 !s110 1685711768
+!i10b 1
+!s100 07RdIKlin_nIV?0k[bmdN2
+R2
+ID7Bo9TlL=B2GOl<3Jk>>Y1
+R3
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter.v
+!i122 6
+Z46 L0 9 194
+R5
+r1
+!s85 0
+31
+R25
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_mm_interconnect_0_avalon_st_adapter_001
+R45
+!i10b 1
+!s100 `9IVH;Ad3S7WM[z2TD`FV2
+R2
+I;6DbQV;gRT_`^<lLMeo?^1
+R3
+R0
+Z47 w1685708855
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001.v
+!i122 7
+R46
+R5
+r1
+!s85 0
+31
+Z48 !s108 1685711768.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0
+R13
+R39
+!i10b 1
+!s100 <9;2HeNYncff5:@DXad4S0
+R2
+I[:gObkoFBPa:_c@Xi@Q961
+R3
+S1
+R0
+R47
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0.sv
+!i122 29
+Z49 L0 66 41
+R5
+r1
+!s85 0
+31
+Z50 !s108 1685711772.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R13
+R39
+!i10b 1
+!s100 ^o[gNR2b8MzElTE;3Y5A30
+R2
+Ihf82aA`Cffd;oc3Cf`:D;2
+R3
+S1
+R0
+R47
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+!i122 30
+R49
+R5
+r1
+!s85 0
+31
+R50
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_demux
+R13
+R39
+!i10b 1
+!s100 U7D5HOiXmg6926P8I31Tn1
+R2
+I4ddQTARE1Nh8JH[X_PfP`0
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux.sv
+!i122 31
+L0 43 57
+R5
+r1
+!s85 0
+31
+R50
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_demux_001
+R13
+R39
+!i10b 1
+!s100 CRdnDSk]X5DgoN4D;805Y1
+R2
+IQV>21K?^GX1]@@3<4g?Kn1
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_001.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_001.sv
+!i122 32
+L0 43 252
+R5
+r1
+!s85 0
+31
+R50
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_demux_002
+R13
+Z51 !s110 1685711773
+!i10b 1
+!s100 3[U1MgczECfQTggY6YUS;2
+R2
+IaVOQH0EM`P]ZlTfGhD@G^1
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_002.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_002.sv
+!i122 33
+L0 43 72
+R5
+r1
+!s85 0
+31
+R50
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_002.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_demux_002.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_mux
+R13
+R51
+!i10b 1
+!s100 gTVE3MM`J=@f@G3E0BmIZ3
+R2
+InFDUUaU0E>fn8UZDI=V<o2
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux.sv
+!i122 34
+L0 51 288
+R5
+r1
+!s85 0
+31
+Z52 !s108 1685711773.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_mux_001
+R13
+R51
+!i10b 1
+!s100 a_f[hZk2TcPHj`US1OzVf0
+R2
+IlN[D>A0D:_9T3j_L7;9e<2
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_001.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_001.sv
+!i122 35
+L0 51 270
+R5
+r1
+!s85 0
+31
+R52
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_cmd_mux_002
+R13
+R51
+!i10b 1
+!s100 <T^JeO5LiJc_DG]8;d@J`2
+R2
+I:0gz5d3SCGLz`SUV=>:S40
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_002.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_002.sv
+!i122 36
+Z53 L0 51 44
+R5
+r1
+!s85 0
+31
+R52
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_002.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_cmd_mux_002.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router
+R13
+R51
+!i10b 1
+!s100 :<fe6e>6iXo:;nE^=DTCR2
+R2
+I7a00a3`o1VJK?2<giXYmR3
+R3
+S1
+R0
+R4
+Z54 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router.sv
+Z55 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router.sv
+!i122 37
+L0 84 131
+R5
+r1
+!s85 0
+31
+R52
+Z56 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router.sv|
+Z57 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_001
+R13
+R51
+!i10b 1
+!s100 ]^MN5;D65LkJk>j09SP6T0
+R2
+I4QF>XPKGCYmafW2gKI_HK3
+R3
+S1
+R0
+R4
+Z58 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_001.sv
+Z59 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_001.sv
+!i122 38
+L0 84 231
+R5
+r1
+!s85 0
+31
+R52
+Z60 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_001.sv|
+Z61 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_001.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_001_default_decode
+R13
+R51
+!i10b 1
+!s100 5U2IA?l<BCJH0ZT:>[9o`3
+R2
+I63BUg>z>EMj9>dck^SFSI3
+R3
+S1
+R0
+R4
+R58
+R59
+!i122 38
+Z62 L0 45 37
+R5
+r1
+!s85 0
+31
+R52
+R60
+R61
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_002
+R13
+Z63 !s110 1685711774
+!i10b 1
+!s100 IYU]FVOUGSVE>V28294]T2
+R2
+IMoPE8[QSW9PW`IIX2gO710
+R3
+S1
+R0
+R4
+Z64 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_002.sv
+Z65 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_002.sv
+!i122 39
+L0 84 142
+R5
+r1
+!s85 0
+31
+Z66 !s108 1685711774.000000
+Z67 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_002.sv|
+Z68 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_002.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_002_default_decode
+R13
+R63
+!i10b 1
+!s100 ZTXYnIdNd1?cSL9Nhz?8`1
+R2
+IgUN<gB`eee_jKBCJSSU0?2
+R3
+S1
+R0
+R4
+R64
+R65
+!i122 39
+R62
+R5
+r1
+!s85 0
+31
+R66
+R67
+R68
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_003
+R13
+R63
+!i10b 1
+!s100 ==IWMh;Nlo=fFM]>_5WNj1
+R2
+IE0KDif2z<LU;J=gDA2HHX3
+R3
+S1
+R0
+R4
+Z69 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_003.sv
+Z70 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_003.sv
+!i122 40
+L0 84 143
+R5
+r1
+!s85 0
+31
+R66
+Z71 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_003.sv|
+Z72 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_003.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_003_default_decode
+R13
+R63
+!i10b 1
+!s100 >3m9Be5o1GV;LNSKmm;cL1
+R2
+IC4Y=;R1RJUA3J7B:^G_>z2
+R3
+S1
+R0
+R4
+R69
+R70
+!i122 40
+R62
+R5
+r1
+!s85 0
+31
+R66
+R71
+R72
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_004
+R13
+R63
+!i10b 1
+!s100 LRfdRZXXEg;J?Ej7XK]T^1
+R2
+IPcRh@N129:8iCcI[]AO3H1
+R3
+S1
+R0
+R4
+Z73 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_004.sv
+Z74 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_004.sv
+!i122 41
+L0 84 139
+R5
+r1
+!s85 0
+31
+R66
+Z75 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_004.sv|
+Z76 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_004.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_004_default_decode
+R13
+R63
+!i10b 1
+!s100 aFn`[WPV4=n=S<^NZFXB11
+R2
+Ild::2@N^Ue8SJE_XFVzLB2
+R3
+S1
+R0
+R4
+R73
+R74
+!i122 41
+R62
+R5
+r1
+!s85 0
+31
+R66
+R75
+R76
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_005
+R13
+R63
+!i10b 1
+!s100 ia4z=l0E^2S7W;ZOHo2KV1
+R2
+IVh4fQ9BPAg@bRA<Ac1CSS3
+R3
+S1
+R0
+R11
+Z77 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_005.sv
+Z78 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_005.sv
+!i122 42
+L0 84 130
+R5
+r1
+!s85 0
+31
+R66
+Z79 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_005.sv|
+Z80 !s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_router_005.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_005_default_decode
+R13
+R63
+!i10b 1
+!s100 VaJM1YU4c8^jQf?e3cgn[1
+R2
+IY>P^]c0QU;fRJiNb[eC9P1
+R3
+S1
+R0
+R11
+R77
+R78
+!i122 42
+R62
+R5
+r1
+!s85 0
+31
+R66
+R79
+R80
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_router_default_decode
+R13
+R51
+!i10b 1
+!s100 ik_UgZM>a]YTbUQ98PUgS0
+R2
+IkcIQCRdA8[6SRV`]=]0?;0
+R3
+S1
+R0
+R4
+R54
+R55
+!i122 37
+R62
+R5
+r1
+!s85 0
+31
+R52
+R56
+R57
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_rsp_demux
+R13
+R63
+!i10b 1
+!s100 c5Zfd3;k:AN@BP`GK1IZ11
+R2
+ILmkk>c5cYd1SF:F4N5;:Q0
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_demux.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_demux.sv
+!i122 43
+L0 43 87
+R5
+r1
+!s85 0
+31
+R66
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_rsp_mux
+R13
+Z81 !s110 1685711775
+!i10b 1
+!s100 hWz9bUPcSf:9177P1ZJHg3
+R2
+I?A[S]m:Pc0_WjCKH<f5cd0
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux.sv
+!i122 44
+R53
+R5
+r1
+!s85 0
+31
+R66
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_rsp_mux_001
+R13
+R81
+!i10b 1
+!s100 m:`Eh[nVg?>4n`QZcJ2Mz1
+R2
+I8E=5CE0BaCPlN2VBo2Sl@2
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_001.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_001.sv
+!i122 45
+L0 51 533
+R5
+r1
+!s85 0
+31
+Z82 !s108 1685711775.000000
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_mm_interconnect_0_rsp_mux_002
+R13
+R81
+!i10b 1
+!s100 fUiGO<l<1J0e7Wo<PVbR23
+R2
+IjWU_E2U91<z7^779fI7LM1
+R3
+S1
+R0
+R11
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_002.sv
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_002.sv
+!i122 46
+L0 51 293
+R5
+r1
+!s85 0
+31
+R82
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_002.sv|
+!s90 -reportprogress|300|-sv|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_mm_interconnect_0_rsp_mux_002.sv|
+!i113 1
+R19
+R20
+R9
+vsoc_system_nios2_gen2_0
+R45
+!i10b 1
+!s100 Tbi;zgWlYWgjKeSZj;9Yk3
+R2
+I4M87S]1G_P^SLE2IJz8d>1
+R3
+R0
+R40
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios2_gen2_0.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios2_gen2_0.v
+!i122 8
+L0 9 59
+R5
+r1
+!s85 0
+31
+R48
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_nios_hex_0
+R45
+!i10b 1
+!s100 @<;J]AW^ahC>z?7H9aaM[2
+R2
+Il=4eejG]cl2XVKBDiIS0S0
+R3
+R0
+Z83 w1685708818
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_hex_0.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_hex_0.v
+!i122 9
+Z84 L0 21 46
+R5
+r1
+!s85 0
+31
+R48
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_hex_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_hex_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_nios_leds
+R45
+!i10b 1
+!s100 1[>9_UHAXW;gR^kMb1FKo3
+R2
+IkCKXk:k3enmI5N1aL=LRY1
+R3
+R0
+R83
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_leds.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_leds.v
+!i122 10
+R84
+R5
+r1
+!s85 0
+31
+R48
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_leds.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_leds.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_nios_switches
+R45
+!i10b 1
+!s100 4zk`LkGjV7dX[ARYAI_Tg3
+R2
+I6oBg?MV2RNUn`41d;e=JS3
+R3
+R0
+Z85 w1685708819
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_switches.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_switches.v
+!i122 11
+L0 21 38
+R5
+r1
+!s85 0
+31
+R48
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_switches.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_nios_switches.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_performance_counter_0
+R10
+!i10b 1
+!s100 hRlYDa<BoI7ED]Y`djfVE1
+R2
+Iao0z:5D>jUInCX=eCdCPE0
+R3
+R0
+R85
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_performance_counter_0.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_performance_counter_0.v
+!i122 12
+L0 21 230
+R5
+r1
+!s85 0
+31
+R12
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_performance_counter_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_performance_counter_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_pll_0
+R10
+!i10b 1
+!s100 TIDYLI1e7CmWJ]9?RiAe^2
+R2
+IGa5R5ml?TUn4A>Tllh`4[3
+R3
+R0
+R85
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_pll_0.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_pll_0.v
+!i122 13
+L0 2 91
+R5
+r1
+!s85 0
+31
+R12
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_pll_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_pll_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_sdram_controller_0
+R10
+!i10b 1
+!s100 XbWe4dbRRnTHL^giJ577[3
+R2
+I>>39jIn6>`9S?3U;<?1Ta3
+R3
+R0
+Z86 w1685708820
+Z87 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sdram_controller_0.v
+Z88 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sdram_controller_0.v
+!i122 14
+L0 159 563
+R5
+r1
+!s85 0
+31
+R12
+Z89 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sdram_controller_0.v|
+Z90 !s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sdram_controller_0.v|
+!i113 1
+R7
+R8
+R9
+vsoc_system_sdram_controller_0_input_efifo_module
+R10
+!i10b 1
+!s100 a[F`Z;EaAmBSg10VIGh2a2
+R2
+IMLLTUBo@>d[og9:Zi3PI@1
+R3
+R0
+R86
+R87
+R88
+!i122 14
+L0 21 128
+R5
+r1
+!s85 0
+31
+R12
+R89
+R90
+!i113 1
+R7
+R8
+R9
+vsoc_system_sysid
+R10
+!i10b 1
+!s100 Hm0iieVB2YIK5BhB`=4zF0
+R2
+Ia]n1goVe4:4CNHmKG]:jh2
+R3
+R0
+R86
+8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sysid.v
+F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sysid.v
+!i122 15
+L0 34 21
+R5
+r1
+!s85 0
+31
+R12
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sysid.v|
+!s90 -reportprogress|300|-vlog01compat|-work|soc_system|+incdir+/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/db/ip/soc_system/submodules/soc_system_sysid.v|
+!i113 1
+R7
+R8
+R9

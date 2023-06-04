@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/quartus/simulation/modelsim
+Ede1_soc_top_level
+Z1 w1685538449
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/hdl/DE1_SoC_top_level.vhd
+Z5 F/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/hdl/DE1_SoC_top_level.vhd
+l0
+L20 1
+Vzz^F3dlGB0c1lhXzJeeb33
+!s100 g^CafIM0ZTlV<eGL<]YkA3
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1685711776
+!i10b 1
+Z8 !s108 1685711775.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|/home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/hdl/DE1_SoC_top_level.vhd|
+!s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/hdl/DE1_SoC_top_level.vhd|
+!i113 1
+Z10 o-93 -work work
+Z11 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+DEx4 work 17 de1_soc_top_level 0 22 zz^F3dlGB0c1lhXzJeeb33
+!i122 0
+l190
+L165 52
+Vd8^9Gfh3GKBiX<=]fOU583
+!s100 JRghj]bPhg;NOgZ[d9T1@3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 /home/nathan/Documents/Cours/EPFL_RTES_CS476/Code/mini_project_v2/hw/hdl/DE1_SoC_top_level.vhd|
+!i113 1
+R10
+R11
