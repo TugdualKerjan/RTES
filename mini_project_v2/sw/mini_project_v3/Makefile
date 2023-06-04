@@ -143,9 +143,9 @@ ELF := mini_project_v3.elf
 
 # Paths to C, C++, and assembly source files.
 C_SRCS := mini_project_with_fake_camera.c
+#C_SRCS := test_and_profile.c
 CXX_SRCS :=
 ASM_SRCS :=
-#C_SRCS := test_and_profile.c
 
 
 # Path to root of object file tree.
